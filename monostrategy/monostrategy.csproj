@@ -35,9 +35,19 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Utility\CubeVBO2.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\Camera.cs" />
+    <Compile Include="Utility\Grid3D.cs" />
+    <Compile Include="Utility\InputManager.cs" />
+    <Compile Include="Utility\MathHelperC.cs" />
+    <Compile Include="Utility\QuadVBO.cs" />
+    <Compile Include="Utility\RectangleCustom.cs" />
+    <Compile Include="Utility\ResourceManager.cs" />
+    <Compile Include="Utility\Transformations.cs" />
+    <Compile Include="Utility\WorldQuad.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="OpenTK">
