@@ -1,0 +1,2 @@
+Using shaders in monogame
+https://github.com/mono/MonoGame/wiki/Effects-And-Shaders
